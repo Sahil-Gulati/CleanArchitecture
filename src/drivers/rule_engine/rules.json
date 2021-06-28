@@ -1,0 +1,24 @@
+{
+    "price": {
+        "discount": [
+            {
+                "percentage": 8, 
+                "when": [
+                    {"variable": "{TOTAL}", "condition": "gte", "value": "800"}
+                ]
+            },
+            {
+                "percentage": 5, 
+                "when": [
+                    {"variable": "{TOTAL}", "condition": "gte", "value": "500"}
+                ]
+            }
+        ],
+        "cashbacks": [
+            
+        ],
+        "taxes": [
+        ]
+    },
+    "product": {}
+}

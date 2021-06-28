@@ -1,0 +1,5 @@
+[
+    {"type": "QUANTITY_BENEFIT", "sku": "A", "quantity": "3", "totalPrice": "100"},
+    {"type": "QUANTITY_BENEFIT", "sku": "B", "quantity": "2", "totalPrice": "80"},
+    {"type": "TOTAL_VALUATION", "price": "500", "discountPercentage": "10"}
+]
