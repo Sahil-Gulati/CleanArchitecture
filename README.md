@@ -30,4 +30,4 @@ handling a checkout transaction.
 
 
 ### Solution flow:
-<img src="https://i.imgur.com/IDrYkSV.png"/>
+<img src="https://i.imgur.com/zwF5PkD.png"/>
